@@ -1,0 +1,7 @@
+flet==0.86.5
+pydantic==2.13.5
+requests==2.34.2
+keyring==25.7.0
+curl_cffi==0.16.3
+yt-dlp==2026.8.19
+libtorrent==2.1.1
